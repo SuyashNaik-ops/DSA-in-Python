@@ -13,3 +13,10 @@ Data Structures And Algorithm
 A structured repository for learning and practicing Data Structures and Algorithms (DSA) using Python.
 
 This repository contains implementations, explanations, and problem-solving practice covering fundamental data structures and algorithms, with a focus on building strong programming and problem-solving skills.
+🎯 Goals
+Build strong DSA fundamentals using Python
+Understand how common data structures work
+Learn important algorithms and their applications
+Improve logical and problem-solving skills
+Practice coding problems regularly
+Prepare for technical interviews and coding assessments
