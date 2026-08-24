@@ -32,3 +32,11 @@ Dictionaries
 Strings
 Recursion
 Basic Object-Oriented Programming
+3. Strings
+String manipulation
+Character frequency
+Palindromes
+Anagrams
+String searching
+Two-pointer problems
+4. Searching
