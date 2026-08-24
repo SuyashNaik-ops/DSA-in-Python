@@ -20,3 +20,15 @@ Learn important algorithms and their applications
 Improve logical and problem-solving skills
 Practice coding problems regularly
 Prepare for technical interviews and coding assessments
+1. Python Fundamentals
+Variables and Data Types
+Conditional Statements
+Loops
+Functions
+Lists
+Tuples
+Sets
+Dictionaries
+Strings
+Recursion
+Basic Object-Oriented Programming
