@@ -35,8 +35,31 @@ Basic Object-Oriented Programming
 3. Strings
 String manipulation
 Character frequency
+Linear Search
+Binary Search
+Search-based problem solving
+5. Sorting
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+6. Linked Lists
+Singly Linked List
+Doubly Linked List
+Circular Linked List
+Insertion
+Deletion
+Traversal
+Reversal
+7. Stack
+Stack implementation
+Push
+Pop
+Peek
+Applications of stacks
 Palindromes
 Anagrams
 String searching
 Two-pointer problems
-4. Searching
+5. Searching
