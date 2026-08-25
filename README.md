@@ -62,5 +62,72 @@ Palindromes
 Anagrams
 String searching
 Two-pointer problems
-5. Searching
+# 🐍 DSA in Python
+
+This repository contains my **Data Structures and Algorithms (DSA) practice in Python**.
+
+I am using this repository to strengthen my problem-solving skills and prepare for **coding interviews, internships, and placements**.
+
+## 📚 Topics Covered
+
+* Python Basics
+* Time & Space Complexity
+* Arrays
+* Strings
+* Searching
+* Sorting
+* Recursion
+* Linked Lists
+* Stacks
+* Queues
+* Hashing
+* Trees
+* Binary Search Trees
+* Heaps
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
+
+## 🧩 Problem Solving
+
+Problems are organized by topic and difficulty.
+
+```text
+DSA-in-Python/
+│
+├── Arrays/
+├── Strings/
+├── Searching/
+├── Sorting/
+├── Recursion/
+├── Linked_List/
+├── Stack/
+├── Queue/
+├── Hashing/
+├── Trees/
+├── Heap/
+├── Graphs/
+├── Greedy/
+└── Dynamic_Programming/
+```
+
+## 🎯 Goal
+
+* Build strong DSA fundamentals
+* Improve logical thinking and problem-solving
+* Solve problems consistently
+* Prepare for technical interviews and placements
+
+## 🛠️ Language
+
+Python 🐍
+
+## 👨‍💻 Author
+
+Suyash Naik
+
+B.Tech/BE — Artificial Intelligence & Data Science
+
+⭐ This repository is continuously updated as I learn and solve new problems.
+
 
