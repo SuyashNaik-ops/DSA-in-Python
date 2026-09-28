@@ -70,25 +70,25 @@ I am using this repository to strengthen my problem-solving skills and prepare f
 
  📚 Topics Covered
 
-* Python Basics
-* Time & Space Complexity
-* Arrays
-* Strings
-* Searching
-* Sorting
-* Recursion
-* Linked Lists
-* Stacks
-* Queues
-* Hashing
-* Trees
-* Binary Search Trees
-* Heaps
-* Graphs
-* Greedy Algorithms
-* Dynamic Programming
+ Python Basics
+ Time & Space Complexity
+ Arrays
+ Strings
+ Searching
+ Sorting
+ Recursion
+ Linked Lists
+ Stacks
+ Queues
+ Hashing
+ Trees
+ Binary Search Trees
+ Heaps
+ Graphs
+ Greedy Algorithms
+ Dynamic Programming
 
-## 🧩 Problem Solving
+ 🧩 Problem Solving
 
 Problems are organized by topic and difficulty.
 
