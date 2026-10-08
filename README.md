@@ -111,7 +111,7 @@ DSA-in-Python/
 └── Dynamic_Programming/
 ```
 
-## 🎯 Goal
+🎯 Goal
 
 * Build strong DSA fundamentals
 * Improve logical thinking and problem-solving
