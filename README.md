@@ -118,11 +118,11 @@ DSA-in-Python/
 * Solve problems consistently
 * Prepare for technical interviews and placements
 
-## 🛠️ Language
+ 🛠️ Language
 
 Python 🐍
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
 Suyash Naik
 
