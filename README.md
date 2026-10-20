@@ -66,7 +66,7 @@ Two-pointer problems
 
 This repository contains my **Data Structures and Algorithms (DSA) practice in Python**.
 
-I am using this repository to strengthen my problem-solving skills and prepare for **coding interviews, internships, and placements**.
+I am using this repository to strengthen my problem-solving skills and prepare for **coding interviews, internships, and placements.
 
  📚 Topics Covered
 
